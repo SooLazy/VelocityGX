@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.imxprs.com	TRUE	/	FALSE	1999999999	imxprs_lang	en
+www.imxprs.com	TRUE	/	FALSE	1999999999	imxprs_label	blk
+www.imxprs.com	TRUE	/	FALSE	1999999999	imxprs_referer	direct
+

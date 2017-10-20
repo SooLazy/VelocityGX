@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:47:21	99078/99078	---M-Z	200	added ('OK')	text/html	date:Fri,%2020%20Oct%202017%2023:47:08%20GMT	http://www.imxprs.com/free/lazyyy/velocitygx	C:/My%20Web%20Sites/TT/www.imxprs.com/free/lazyyy/velocitygx.html	(from )
+10:47:21	0/0	---M--	302	error ('Found')	text/html	date:Fri,%2020%20Oct%202017%2023:47:08%20GMT	http://www.imxprs.com/robots.txt		(from )
